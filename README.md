@@ -6,7 +6,7 @@ Ingresar el tiempo de duracion de una llamada telefonica y determinar la cantida
 - Toda llamado que dure 3 minutos o menos tiene un costo de 300 pesos.
 - Cada minuto adicional cuesta 50 pesos. 
 
-## inpud
+## input
 
 ### Variables de entrada
 cant_minutos: cantidad de minutos que duro la llamada
