@@ -1,10 +1,10 @@
 cant_minutos = int(input("Digite la cantidad de minutos que duro la llamada ")) #input
 
 if cant_minutos <= 3:
-    print('el valor de la llama son 300 pesos')
+    print('el valor de la llamada son 300 pesos')
 
 else:
     valor_llamada = 300+50*(cant_minutos-3)
 
 
-print(f'el valor de la llama son {valor_llamada} pesos')
+print(f'el valor de la llamada son {valor_llamada} pesos')
